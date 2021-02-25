@@ -27,7 +27,7 @@ Then, Ian took a minute to have a little fun with that sample:
 
 Now it was time to pick our actual data and translate all channels. We found a rich piece of LFP data and ran all 4 channels through the jupyter notebook translation, and then the JS midi maker, and got this:
 
-<audio ref="Raw LFP to Notes" src="https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Brain%20To%20Notes%20Raw.mp3"></audio>
+[Raw LFP to Notes](https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Brain%20To%20Notes%20Raw.mp3)
 
 Maybe not too far off from what you expected a brain to sound like? With all four channels available it was time to get creative. First, we rounded the notes to the scale of C Major to make them a little easier to work with (while still mostly accurate). We then split up and created a couple of songs!
 
