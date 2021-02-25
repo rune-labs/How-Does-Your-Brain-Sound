@@ -25,7 +25,11 @@ Then, Ian took a minute to have a little fun with that sample:
 
 [Funky Brain](https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Funky%20Brain.mp3)
 
-Now it was time to pick our actual data and translate all channels. We found a rich piece of LFP data and ran all 4 channels through the jupyter notebook translation, and then the JS midi maker, and got this:
+Now it was time to pick our actual data and translate all channels.
+
+![LFP Stream](assets/stream.png)
+
+We found a rich piece of LFP data (thanks to Gavin on our product team!) and ran all 4 channels through the jupyter notebook translation, and then the JS midi maker, and got this:
 
 [Raw LFP to Notes](https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Brain%20To%20Notes%20Raw.mp3)
 
