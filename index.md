@@ -45,7 +45,3 @@ Poorvi took things a different direction, with a beautiful orchestral arrangemen
 
 ## Next Steps
 This is about as far as we could get in a single day, but the evolution of this idea would be to hook everything up into an automated app or service, where data on our platform could be selected and easily run through to either generate midi files OR translate to an MP3.
-
-You can use the [editor on GitHub](https://github.com/rune-labs/How-Does-Your-Brain-Sound/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
