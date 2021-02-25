@@ -1,4 +1,5 @@
 # How Does Your Brain Sound?
+A Rune Labs Hack Day project by Poorvi Acharya and Ian Lockwood
 
 ### The Goal: Translating brain data into to musical notes
 At Rune Labs, we have incredibly rich data coming from amazing devices directly implanted in the brain. One of the data streams, Local Field Potential (or LFP) is measured in Hz - just like musical notes. And so, we got to thinking... can brain data be music?
@@ -16,6 +17,16 @@ Well, yes and no. The data coming from your brain does not register Hz at audibl
 
 ### The Music
 
+First up, a basic translation of a single channel of sample data:
+<audio ref="Cool Brain" src="https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/cool%20brain.mp3"></audio>
+  
+
+Then, Ian took a minute to have a little fun with that sample:
+<audio ref="Funky Brain" src="https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Funky%20Brain.mp3"></audio>
+
+Now it was time to pick our actual data and translate all channels. We found a rich piece of LFP data and ran all 4 channels through the jupyter notebook translation, and then the JS midi maker, and got this:
+
+<audio ref="Raw LFP to Notes" src="https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/Brain%20To%20Notes%20Raw.mp3"></audio>
 
 ### Next Steps
 
