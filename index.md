@@ -27,7 +27,7 @@ Then, Ian took a minute to have a little fun with that sample:
 
 Now it was time to pick our actual data and translate all channels.
 
-![LFP Stream](https://github.com/rune-labs/How-Does-Your-Brain-Sound/blob/main/assets/stream.png)
+![LFP Stream](https://github.com/rune-labs/How-Does-Your-Brain-Sound/blob/main/assets/frequency_domain.png)
 
 We found a rich piece of LFP data (thanks to Gavin on our product team!) and ran all 4 channels through the jupyter notebook translation, and then the JS midi maker, and got this:
 
