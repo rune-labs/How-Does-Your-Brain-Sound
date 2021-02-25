@@ -10,7 +10,7 @@ Well, yes and no. The data coming from your brain does not register Hz at audibl
 
 
 ## The Math, in a Jupyter Notebook
-[rune-brain-sounds.ipynb](https://github.com/rune-labs/How-Does-Your-Brain-Sound/blob/main/src/rune-brain-sounds.ipynb?short_path=b85f1ce)
+[rune-brain-sounds.ipynb](https://github.com/rune-labs/How-Does-Your-Brain-Sound/blob/main/src/rune-brain-sounds.ipynb)
 
 ### The Midi Translation, Built Using [jsmidgen](https://github.com/dingram/jsmidgen)
 [midiDemo.js](https://github.com/rune-labs/How-Does-Your-Brain-Sound/blob/main/src/midiDemo.js)
