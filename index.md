@@ -19,7 +19,7 @@ Well, yes and no. The data coming from your brain does not register Hz at audibl
 
 First up, a basic translation of a single channel of sample data:
 
-[Cool Brain](https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/cool%20brain.mp3)
+![Cool Brain](https://raw.githubusercontent.com/rune-labs/How-Does-Your-Brain-Sound/main/Brain%20Songs/cool%20brain.mp3)
 
 Then, Ian took a minute to have a little fun with that sample:
 
